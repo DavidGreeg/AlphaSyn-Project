@@ -1,0 +1,45 @@
+#	Trait	SNP rs	Context	Gene	Gene ID	Gene 2	Gene ID 2	Chromosome	Location	P-Value	Source	PubMed	Analysis ID	Study ID	Study Name	Population
+1	Parkinson Disease	356182	intergenic	GPRIN3	285513	SNCA	6622	4	89704960	4E-73	NHGRI	25064009				European
+2	Parkinson Disease	356219	intergenic	GPRIN3	285513	SNCA	6622	4	89716450	6E-65	NHGRI	22438815				Asian|European
+3	Parkinson Disease	356182	intergenic	GPRIN3	285513	SNCA	6622	4	89704960	1E-56	NHGRI	27182965				European
+4	Parkinson Disease	356219	intergenic	GPRIN3	285513	SNCA	6622	4	89716450	2E-47	NHGRI	21292315				European
+5	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	8E-35	NHGRI	22451204				European
+6	Parkinson Disease	8180209	intergenic	GPRIN3	285513	SNCA	6622	4	89723303	1E-32	NHGRI	28011712				East Asian
+7	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	2E-19	NHGRI	21738487				European
+8	Parkinson Disease	11931074	intergenic	GPRIN3	285513	SNCA	6622	4	89718364	7E-17	NHGRI	19915576				East Asian|European
+9	Parkinson Disease	2736990	intron	SNCA	6622	SNCA	6622	4	89757390	2E-16	NHGRI	19915575				European
+10	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	9E-16	NHGRI	21044948				European
+11	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	3E-11	NHGRI	20711177				European
+12	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	3E-11	NHGRI	24511991				European
+13	Parkinson Disease	6532194	intergenic	SNCA	6622	MMRN1	22915	4	89859751	5E-11	NHGRI	22438815				Asian|European
+14	C-Reactive Protein	3775442	intron	SNCA	6622	SNCA	6622	4	89794080	3.21432866712515E-10	dbGaP	17903293	1134	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+15	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	1E-9	NHGRI	24511991				European
+16	Parkinson Disease	2736990	intron	SNCA	6622	SNCA	6622	4	89757390	5.69E-9	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+17	C-Reactive Protein	3857060	intron	SNCA	6622	SNCA	6622	4	89758377	6.95974558227867E-9	dbGaP	17903293	1134	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+18	Platelet Function Tests	11728943	intergenic	GPRIN3	285513	SNCA	6622	4	89623888	1.6900000E-008	dbGaP	0	3143	375	Genome-Wide Association of Platelet Phenotypes	African American
+19	Bupropion	1908557	intergenic	GPRIN3	285513	SNCA	6622	4	89500202	3E-8	NHGRI	27622933				European
+20	Depressive Disorder	1908557	intergenic	GPRIN3	285513	SNCA	6622	4	89500202	3E-8	NHGRI	27622933				European
+21	Mood Disorders	1908557	intergenic	GPRIN3	285513	SNCA	6622	4	89500202	3E-8	NHGRI	27622933				European
+22	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	3E-8	NHGRI	21084426				European
+23	Parkinson Disease	3857059	intron	SNCA	6622	SNCA	6622	4	89754087	3.6E-8	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+24	Parkinson Disease	11931074	intergenic	GPRIN3	285513	SNCA	6622	4	89718364	4.78E-8	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+25	Parkinson Disease	356220	intergenic	GPRIN3	285513	SNCA	6622	4	89720189	6.99E-8	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+26	Parkinson Disease	2736990	intron	SNCA	6622	SNCA	6622	4	89757390	7E-8	NHGRI	20070850				European
+27	Parkinson Disease	6532197	intergenic	SNCA	6622	MMRN1	22915	4	89876150	1E-7	NHGRI	19915575				European
+28	Hip	10516842	intergenic	GPRIN3	285513	SNCA	6622	4	89685029	1.07499466014977E-6	dbGaP	17903296	1826	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+29	Neuroticism	1372520	intron	SNCA	6622	SNCA	6622	4	89836354	2E-6	NHGRI	27089181				European
+30	Coronary Disease	356228	intergenic	GPRIN3	285513	SNCA	6622	4	89685975	3.1810000E-006	dbGaP	0	3910	930	CHARGE (Cohorts for Heart and Aging Research in Genomic Epidemiology)	European
+31	Parkinson Disease	3775439	intron	SNCA	6622	SNCA	6622	4	89788590	4.43E-6	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+32	Cytokine Receptor gp130	356191	intron	SNCA	6622	SNCA	6622	4	89766969	2.0930000E-005	dbGaP	0	3748	215	Genome-Wide Association Analysis of Biomarkers in the InCHIANTI and BLSA	European
+33	Cytokine Receptor gp130	356188	intron	SNCA	6622	SNCA	6622	4	89770386	2.1120000E-005	dbGaP	0	3748	215	Genome-Wide Association Analysis of Biomarkers in the InCHIANTI and BLSA	European
+34	Parkinson Disease	12644119	intergenic	GPRIN3	285513	SNCA	6622	4	89682268	2.15E-5	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+35	Cytokine Receptor gp130	2583978	intron	SNCA	6622	SNCA	6622	4	89829175	2.4690000E-005	dbGaP	0	3748	215	Genome-Wide Association Analysis of Biomarkers in the InCHIANTI and BLSA	European
+36	Parkinson Disease	894278	intron	SNCA	6622	SNCA	6622	4	89813384	2.64E-5	dbGaP	19915575	2868	89	NINDS- Genome-Wide Genotyping in Parkinson's Disease	European
+37	Cytokine Receptor gp130	2197120	intron	SNCA	6622	SNCA	6622	4	89808451	2.7960000E-005	dbGaP	0	3748	215	Genome-Wide Association Analysis of Biomarkers in the InCHIANTI and BLSA	European
+38	C-Reactive Protein	7678651	intergenic	SNCA	6622	MMRN1	22915	4	89847220	5.09992075077292E-5	dbGaP	17903293	1131	342	NHLBI Framingham SNP Health Association Resource (SHARe)	European
+39	Parkinson Disease	356229	intergenic	GPRIN3	285513	SNCA	6622	4	89685446	5.48E-5	dbGaP	21829596	2865	126	CIDR: Genome Wide Association Study in Familial Parkinson Disease (PD)	European
+40	Alcoholism	6532194	intergenic	SNCA	6622	MMRN1	22915	4	89859751	8.29928e-005	dbGaP	22978509	2906	92	Study of Addiction: Genetics and Environment (SAGE)	European
+41	Parkinson Disease	356188	intron	SNCA	6622	SNCA	6622	4	89770386	8.41E-5	dbGaP	21829596	2865	126	CIDR: Genome Wide Association Study in Familial Parkinson Disease (PD)	European
+42	Parkinson Disease	1504489	intergenic	GPRIN3	285513	SNCA	6622	4	89337437	8.42E-5	dbGaP	21829596	2865	126	CIDR: Genome Wide Association Study in Familial Parkinson Disease (PD)	European
+43	Parkinson Disease	4106153	intergenic	GPRIN3	285513	SNCA	6622	4	89323325	9.18E-5	dbGaP	21829596	2865	126	CIDR: Genome Wide Association Study in Familial Parkinson Disease (PD)	European
+44	Myocardial Infarction	1473533	intergenic	GPRIN3	285513	SNCA	6622	4	89595528	3.8409762E-004	dbGaP	0	2883	226	STAMPEED: Cardiovascular Health Study (CHS)	African American

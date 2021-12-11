@@ -1,0 +1,20 @@
+## Data from NCBI Variation Viewer (http://www.ncbi.nlm.nih.gov/variation/view/)
+## NOTE: dbSNP and dbVar variant alleles have some columns (e.g. Variant ID, Start, etc.) in common, but others are different (e.g. Call ID, Change) and the data intermixed in the same column.
+## Each row in the data below represents an allele of a dbSNP (rs) or dbVar (nsv/esv) variant.  Thus, the same RS, NSV or ESV ID may appear on multiple rows.
+## Column descriptions are available at http://www.ncbi.nlm.nih.gov/variation/view/help/#table.
+## Downloaded at: 12/06/2021 05:38:28
+# Variant ID	Location	Variant type	Gene	Molecular consequences	Most severe clinical significance	1000G MAF	GO-ESP MAF	ExAC MAF	Publications (PMIDs)
+rs747474608	89726609	single nucleotide variant	SNCA and 1 more	nc transcript variant,3 prime UTR variant,	not-provided			G=8.25055e-06	
+rs1273267861	89726612	single nucleotide variant	SNCA and 1 more	nc transcript variant,3 prime UTR variant,	not-provided				
+rs1724930742	89726614	single nucleotide variant	SNCA and 1 more	nc transcript variant,3 prime UTR variant,	not-provided				
+rs1724930894	89726619	single nucleotide variant	SNCA and 1 more	nc transcript variant,3 prime UTR variant,	not-provided				
+rs1724931077	89726621	single nucleotide variant	SNCA and 2 more	nc transcript variant,3 prime UTR variant,	not-provided				
+rs757748949	89726631	single nucleotide variant	SNCA and 1 more	,nc transcript variant,synonymous variant,	not-provided			C=1.65033e-05	
+rs781595227	89726632	single nucleotide variant	SNCA and 1 more	,missense variant,nc transcript variant,	not-provided			A=8.25151e-06	
+rs1267209919	89726637	single nucleotide variant	SNCA and 1 more	,nc transcript variant,synonymous variant,	not-provided				
+rs746232417	89726638	single nucleotide variant	SNCA and 1 more	,missense variant,nc transcript variant,	not-provided			T=8.25232e-06	
+rs375682339	89726639	single nucleotide variant	SNCA and 1 more	,missense variant,nc transcript variant,	not-provided				
+rs918531737	89726642	single nucleotide variant	SNCA and 2 more	,missense variant,nonsense (stop gained),nc transcript variant,	not-provided				
+rs76642636	89726643	single nucleotide variant	SNCA and 1 more	,nc transcript variant,synonymous variant,	benign	A=0.000798722		A=0.00244277	
+rs1560486891	89726649	single nucleotide variant	SNCA and 1 more	,missense variant,nc transcript variant,	not-provided				
+rs1560486903	89726650-89726654	indel	SNCA and 1 more	,nc transcript variant,,	not-provided				
